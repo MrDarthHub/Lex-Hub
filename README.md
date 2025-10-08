@@ -2,29 +2,30 @@
 
 ** *Under Construction* **
 
-Website: https://mrdarthhub.github.io/derecho/ 
+Website: https://mrdarthhub.github.io/Lex-Hub/
 
 
 Pendientes:
-- Hacer el logo SVG
-- Cortar el logo en dos (Para el símbolo del tap).
+- Hacer el logo SVG ✓
+- Cortar el logo en dos (Para el símbolo del tap). ✓
 
 
 Pendientes Github:
-- Cambiar el nombre del repo y de la página a Lex Hub.
+- Cambiar el nombre del repo y de la página a Lex Hub. ✓
 
 
 Pendientes HTML:
-- Tap de Videos de Clases y conferencias. 
+- Tap de Videos de Clases y conferencias.✓
 - Añadir leyes en PDF.
 - Hacer una página aparte para el digesto.
 
 
 Pendientes CSS:
-- Cambiar el color del background.
-- Cambiar el logo de la página y del tap del browser.
+- Cambiar el color del background. ✓
+- Cambiar el logo de la página y
+- Cambiar el logo del tap del browser.
 - Hacer un menu.
-- Hacer un footer con el copyright de Morpho Labs.
+- Hacer un footer con el copyright de Morpho Labs. ✓
 - Hacer botones bonitos
 
 
