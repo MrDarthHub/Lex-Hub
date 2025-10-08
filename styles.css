@@ -1,0 +1,95 @@
+/*Body*/
+.body{
+    background: #2f3640;
+    margin:auto; /*Creo que esto ajusta el ancho automaticamente al ancho del dispositivo*/
+}
+
+
+/* Navigation*/
+.logo{
+    width: 300px;
+}
+
+/*Boxes*/
+
+.box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 25px;
+    margin:10px 0;
+}
+
+.box img{
+    width: 40%;
+    height: 100%;
+}
+
+.box a {
+    padding: 10px 0;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.box a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer Links*/
+.footer-links{
+    background:  #2f3640;
+    color:#616161;
+    font-size: 12px;
+    padding: 35px 0;
+}
+
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.footer-container ul{
+    margin: 0 auto;
+}
+
+.footer-container ul li{
+    line-height: 2.8;
+}
+
+.footer{
+    background: #2f3640;
+    color: #616161;
+    font-size: 12px;
+    padding: 20px 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.logo-footer{
+    width: 60px;
+}
