@@ -12,15 +12,15 @@
 
 /*Boxes*/
 
-.box{
+/*.box{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 25px;
     margin:10px 0;
-}
+}*/
 
 .box img{
-    width: 40%;
+    width: 100%;
     height: 100%;
 }
 
@@ -38,14 +38,33 @@
 
 
 
+/* Test con las boxes*/
 
 
+.box{
+    display: block;
+    width: 176px;
+    height: 174px;
+	text-align: center;
+	margin: 1%;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+	position: relative;
+}
+
+.lista_box{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 17%;
+}
 
 
-
-
-
-
+/* Titulos */
+.titulo{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: #ffffff;
+}
 
 
 
